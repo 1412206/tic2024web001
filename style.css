@@ -1,0 +1,41 @@
+.seccion-dorada {
+
+  background-color: gold;
+
+  border: 2px solid black;
+
+  margin-top: 10px;
+
+}
+
+
+
+.seccion-plateada {
+
+  background-color: silver;
+
+  border: 2px solid black;
+
+  margin-top: 10px;
+
+}
+
+
+
+.imagen-dinos {
+
+  text-align: center;
+
+
+}
+
+#ubicacion-seccion {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.mapa {
+  height: 300px;
+  width: 100%;
+  margin-top: 10px;
+}
